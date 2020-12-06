@@ -31,7 +31,7 @@ The analysis of the election show that:
      -Denver County that had 82.8% of the total votes, which was 306,055 votes<br/>
      -Arapahoe County that had 6.7% of the total votes, which was 24,801 votes<br/>
     
-  -The county that had the highest amount of votes: 
+  -The county that had the highest amount of votes: <br/>
     -Denver County at 82.5% (306,055) of the votes 
     
 ## Election Audit Summary 
